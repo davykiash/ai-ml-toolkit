@@ -44,7 +44,7 @@ Model selection can be performed via the **R-Squared Mean**.
 To get started with the AI & ML Toolkit, clone this repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/your-repository/ai-ml-toolkit.git
+git clone https://github.com/davykiash/ai-ml-toolkit.git
 cd ai-ml-toolkit
 pip install -r requirements.txt
 ```
