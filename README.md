@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 For a practical demonstration of how to apply these techniques, check out our blog post titled "Leveraging AI/ML for Predictive Analytics in Business: A Case Study on Customer Default Prediction." This post provides an in-depth case study and step-by-step guide on using various AI and ML tools for predictive analytics in business contexts.
 
-[Read the Blog Post: Leveraging AI/ML for Predictive Analytics in Business: A Case Study on Customer Default Prediction.](YOUR_BLOG_POST_URL)
+[Read the Blog Post: Leveraging AI/ML for Predictive Analytics in Business: A Case Study on Customer Default Prediction.](https://medium.com/@davykiash/leveraging-ai-ml-for-predictive-analytics-in-business-a-case-study-on-customer-default-prediction-c06378586a3a)
 
 This blog post provides step-by-step tutorials and best practices for effectively utilizing the tools and algorithms in this toolkit.
 
